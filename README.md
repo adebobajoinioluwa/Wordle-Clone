@@ -1,4 +1,4 @@
-This is a clone of the wordle game, web app that was sold to the New York Times. It was made using HTML, CSS and vanilla Javascript.
+This is a clone of the wordle game, web app that was sold to the New York Times. It was made using HTML5, CSS3 and vanilla Javascript.
 Below is the instruction on how to play the game: 
 a. There is a secret five letter word chosen
 b. Players have six guesses to figure out the secret word. After six guesses, they lose
